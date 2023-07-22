@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="HW_SW_Interrupts" location="C:/Users/Navadeep/Desktop/PP3/ZynqSW_2021_1_student_v1/Solution/ZynqApplication_Lab4/HW_SW_Interrupts" platform="C:/Users/Navadeep/Desktop/PP3/ZynqSW_2021_1_student_v1/Solution/ZynqApplication_Lab5/ZynqHW_Platform/export/ZynqHW_Platform/ZynqHW_Platform.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="HW_SW_Interrupts_system" sysConfig="ZynqHW_Platform" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="f4492c8c0b2e5519f29dc643918e092e">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1640556094">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.270493234" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>
