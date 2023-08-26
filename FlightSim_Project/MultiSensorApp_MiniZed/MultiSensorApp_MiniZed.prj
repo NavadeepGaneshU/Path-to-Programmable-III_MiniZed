@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="MultiSensorApp_MiniZed" location="C:/Users/Navadeep/Desktop/PP3/FW/MultiSensorApp_MiniZed" platform="C:/Users/Navadeep/Desktop/PP3/FW/MultiSensorApp/export/MultiSensorApp/MultiSensorApp.xpfm" platformUID="xilinx:minized::0.0(custom)" systemProject="MultiSensorApp_MiniZed_system" sysConfig="MultiSensorApp" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="78c62106c26a76a1027d017cb62b2d35">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1113114602">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.803096196" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
