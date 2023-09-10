@@ -15,4 +15,4 @@
 
 [1G ENET, GTX, NEON - what is it unique that FPGAs do at all?](https://community.element14.com/challenges-projects/design-challenges/pathprogrammable3/b/blog/posts/path-to-programmable-iii-with-minized---what-is-it-unique-that-fpgas-do-at-all)
 
-Thanks to Element14 fot bringing up this amazing challenge and I enjoyed throughout the exploration period and had a fun activity building the project. Lots to learn from the peers and some extraordinary project entries made my mind boom! Always looking forward and thanks again. 
+Thanks to Element14 for bringing up this amazing challenge and I enjoyed it throughout the exploration period and had a fun activity building the project. Lots to learn from my peers and some extraordinary project entries made my mind boom! Always looking forward and thanks again. 
